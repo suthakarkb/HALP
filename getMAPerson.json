@@ -1,0 +1,24 @@
+{
+   "svc_code":"CLB",
+   "personnel":[
+      {
+         "name":"Mingde",
+         "idNo":"S1234567D",
+         "mobile":"88889999",
+         "email":"sampleemail@email.com"
+      },
+      {
+         "name":"Bruce Wayne",
+         "salutation":"Mr",
+         "idNo":"S7368890F",
+         "mobile":"88889999",
+         "email":"bruce@batman.com"
+      }
+   ],
+   "pagination":{
+      "currentPage ":"1",
+      "pageSize ":"50",
+      "totalPage ":"5",
+      "totalRecord ":"240"
+   }
+}
